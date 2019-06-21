@@ -5,6 +5,9 @@
 * [Default.aspx.cs](./CS/WebSite/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/WebSite/Default.aspx.vb))
 <!-- default file list end -->
 # Show a popup window in response to right-clicking a grid row
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e56/)**
+<!-- run online end -->
 
 
 <p>This demo shows how to:<br />
